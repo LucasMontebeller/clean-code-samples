@@ -1,0 +1,14 @@
+C:\Mogai\POCs\clean-code-samples\bin\Debug\net7.0\clean-code-samples.exe
+C:\Mogai\POCs\clean-code-samples\bin\Debug\net7.0\clean-code-samples.deps.json
+C:\Mogai\POCs\clean-code-samples\bin\Debug\net7.0\clean-code-samples.runtimeconfig.json
+C:\Mogai\POCs\clean-code-samples\bin\Debug\net7.0\clean-code-samples.dll
+C:\Mogai\POCs\clean-code-samples\bin\Debug\net7.0\clean-code-samples.pdb
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\clean-code-samples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\clean-code-samples.AssemblyInfoInputs.cache
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\clean-code-samples.AssemblyInfo.cs
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\clean-code-samples.csproj.CoreCompileInputs.cache
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\clean-code-samples.dll
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\refint\clean-code-samples.dll
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\clean-code-samples.pdb
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\clean-code-samples.genruntimeconfig.cache
+C:\Mogai\POCs\clean-code-samples\obj\Debug\net7.0\ref\clean-code-samples.dll
